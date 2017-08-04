@@ -1,6 +1,6 @@
 {
   "name": "zach-readline",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "[![NPM version][npm-image]][npm-url] [![build status][travis-image]][travis-url] [![Test coverage][coveralls-image]][coveralls-url] [![David deps][david-image]][david-url] [![node version][node-image]][node-url] [![npm download][download-image]][download-url] [![npm license][license-image]][download-url]",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
@@ -25,11 +25,12 @@
   },
   "homepage": "https://github.com/king-king/zach-readline#readme",
   "dependencies": {
-    "@types/node": "^7.0.18",
     "async": "^2.1.4",
     "debug": "^2.6.1",
     "lei-utils": "^3.1.0"
   },
   "devDependencies": {
+    "mocha": "^3.2.0",
+    "should": "^11.2.0"
   }
 }
