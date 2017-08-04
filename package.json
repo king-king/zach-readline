@@ -31,7 +31,5 @@
     "lei-utils": "^3.1.0"
   },
   "devDependencies": {
-    "mocha": "^3.2.0",
-    "should": "^11.2.0"
   }
 }
