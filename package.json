@@ -29,5 +29,9 @@
     "async": "^2.1.4",
     "debug": "^2.6.1",
     "lei-utils": "^3.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "should": "^11.2.0"
   }
 }
